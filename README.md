@@ -1,0 +1,2 @@
+# JavaToSwiftMapper
+将 java定一个的model转换为swift对应的ObjectMappr对应的dataModel
