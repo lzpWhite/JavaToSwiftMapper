@@ -21,5 +21,53 @@
             stopOnStyle = "0">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JavaToSwiftModel/HandleData.swift"
+            timestampString = "523277258.49959"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "deletePrivateLine(str:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JavaToSwiftModel.HandleData.(deletePrivateLine in _FB7F756C71A6C689C6AE7208EE79DDA3) (str : Swift.String) -&gt; Swift.String"
+                  moduleName = "JavaToSwiftModel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuzhipeng/Desktop/Swift_Test/JavaToSwiftMapper/JavaToSwiftModel/HandleData.swift"
+                  timestampString = "523277258.982532"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1308">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JavaToSwiftModel.HandleData.((deletePrivateLine in _FB7F756C71A6C689C6AE7208EE79DDA3) (str : Swift.String) -&gt; Swift.String).(closure #2)"
+                  moduleName = "JavaToSwiftModel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liuzhipeng/Desktop/Swift_Test/JavaToSwiftMapper/JavaToSwiftModel/HandleData.swift"
+                  timestampString = "523277258.985152"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "26">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
